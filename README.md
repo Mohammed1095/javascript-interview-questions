@@ -2999,6 +2999,7 @@ Good luck with your interview 😊
      You can use the toLocaleString() method to convert dates in one timezone to another. For example, let's convert current date to British English timezone as below,
 
      ```javascript
+     const event = new Date(Date.UTC(2012, 11, 20, 3, 0, 0));
      console.log(event.toLocaleString('en-GB', { timeZone: 'UTC' })); //29/06/2019, 09:56:00
      ```
 
