@@ -7191,6 +7191,32 @@ Good luck with your interview 😊
      console.log("%cThis is a red text with bigger font", "color:red; font-size:20px");
      ```
      **[⬆ Back to Top](#table-of-contents)**
+ 425.### what is the difference between map and set?
+      Maps is like object have key and value
+      unique keys
+      -set
+      -get
+      -add
+      -delete
+      -clear
+      -values
+      -keys
+      -entries
+      -clear
+      -forEach
+      -size
+      set like array have value
+      unique values
+      - add(value)
+      - delete(value)
+      - clear()
+      - values()
+      - entries()
+      - forEach()
+      - size
+      - has(value)
+      
+ **[⬆ Back to Top](#table-of-contents)**
          
 ### Coding Exercise
 
