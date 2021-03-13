@@ -446,6 +446,7 @@ Good luck with your interview 😊
 |422| [Is that possible to use expressions in switch cases?](#is-that-possible-to-use-expressions-in-switch-cases)|
 |423| [What is the easiest way to ignore promise errors?](#what-is-the-easiest-way-to-ignore-promise-errors)|
 |424| [How do style the console output using CSS?](#how-do-style-the-console-output-using-css)|
+|425| [what is the difference between map and set?](#what-is-the-difference-between-key-and-map)|
 
 1. ### What are the possible ways to create objects in JavaScript
 
