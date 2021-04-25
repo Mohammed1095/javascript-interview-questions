@@ -7195,6 +7195,7 @@ Good luck with your interview 😊
      ```
      **[⬆ Back to Top](#table-of-contents)**
  425.### what is the difference between map and set?
+      ```js
       Maps is like object have key and value
       unique keys
       -set
@@ -7218,6 +7219,7 @@ Good luck with your interview 😊
       - forEach()
       - size
       - has(value)
+      ```
       
  **[⬆ Back to Top](#table-of-contents)**
          
