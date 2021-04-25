@@ -6937,7 +6937,7 @@ Good luck with your interview 😊
          });
 
          console.log(isPromise(i)); // false
-         console.log(isPromise(p)); // true
+         console.log(isPromise(promise)); // true
       ```
 
       Another way is to check for `.then()` handler type
