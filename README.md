@@ -6569,8 +6569,8 @@ Good luck with your interview 😊
          return Object(val) !== val;
      }
 
-     isPrimitive(myPrimitive);
-     isPrimitive(myNonPrimitive);
+     isPrimitive(myPrimitive); // true
+     isPrimitive(myNonPrimitive);//  false
      ```
 
      If the value is a primitive data type, the Object constructor creates a new wrapper object for the value. But If the value is a non-primitive data type (an object), the Object constructor will give the same object.
