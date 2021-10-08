@@ -2273,7 +2273,7 @@ Good luck with your interview 😊
      5. port - The port number in the URL
      6. pathname - The path name of the URL
      7. search - The query portion of the URL
-     8. hash - The anchor portion of the URL
+     8. hash - The anchor portion of the URL  http://www.example.com/test.htm#part2: anchor is #part2
 
      **[⬆ Back to Top](#table-of-contents)**
 
