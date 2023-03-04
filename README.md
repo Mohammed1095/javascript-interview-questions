@@ -1780,6 +1780,17 @@ Good luck with your interview 😊
 
     ```javascript
     msg = "Hello" // var is missing, it becomes global variable
+    function fn2(){
+     var h=3;
+    }
+    fn2();
+    consol.log(h); // h is not defined
+    
+    function fn1(){
+     h=3;
+    }
+    fn1();
+    consol.log(h); //3
     ```
 
     **[⬆ Back to Top](#table-of-contents)**
