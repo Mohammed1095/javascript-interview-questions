@@ -1660,7 +1660,8 @@ Good luck with your interview 😊
 
 72. ### What is undefined property
 
-    The undefined property indicates that a variable has not been assigned a value, or not declared at all. The type of undefined value is undefined too.
+    The undefined property indicates that a variable has not been assigned a value. The type of undefined value is undefined too.
+    MSDN Defination : undefined is a primitive value automatically assigned to variables that have just been declared, or to formal arguments for which there are no        actual arguments.
 
     ```javascript
     var user;    // Value is undefined, type is undefined
@@ -1779,6 +1780,17 @@ Good luck with your interview 😊
 
     ```javascript
     msg = "Hello" // var is missing, it becomes global variable
+    function fn2(){
+     var h=3;
+    }
+    fn2();
+    consol.log(h); // h is not defined
+    
+    function fn1(){
+     h=3;
+    }
+    fn1();
+    consol.log(h); //3
     ```
 
     **[⬆ Back to Top](#table-of-contents)**
